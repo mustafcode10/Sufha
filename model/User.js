@@ -9,7 +9,7 @@ const UserSchema  = new Schema({
         required: true
     },
 
-    emails: {
+    email: {
         type: String,
         required: true
     },
